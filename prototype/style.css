@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 253, 251);
+}
+.watchback{
+    max-width: 100%;
+    width: 100%;
+
+}
+.logo2{
+    width: 200px;
+    height: 200px   ;
+    margin-left: 40%;
+}
+.par1{
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    color: #B2854E ;
+    font-size: 50px;
+}
+    .watch{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    div {
+        text-align: center;
+        font-size: 10px;
+        color: #B2854E;
+    
+    
+    }
+    .wa{
+        width: 200px;
+        height: 200px;
+    }
