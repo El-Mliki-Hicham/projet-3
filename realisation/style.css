@@ -36,9 +36,22 @@ body{
         font-size: 10px;
         color: #B2854E;
     
-    
+        
     }
     .wa{
         width: 200px;
         height: 200px;
+    }
+    h3{
+        color:#b2854e1c ;
+        font-size: 400px;
+        font-size: 300px;
+        margin-left: 400px;
+    
+    }
+    .imgcentre{
+        width: 500px;
+        height: 300px;
+        margin-right: 400px;
+
     }
