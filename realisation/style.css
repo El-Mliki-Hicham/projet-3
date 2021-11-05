@@ -34,7 +34,7 @@ body{
     div {
         text-align: center;
         font-size: 10px;
-        color: #B2854E;
+        color: #dbdbdb;
     
         
     }
@@ -43,15 +43,32 @@ body{
         height: 200px;
     }
     h3{
-        color:#b2854e1c ;
-        font-size: 400px;
-        font-size: 300px;
-        margin-left: 400px;
+        display: flex;
+         
+        position: center;
+        justify-content: center;
+        color:  #b2854e2f ;
+    
+        font-size:100px;
+        
+        
     
     }
+     
+    
     .imgcentre{
-        width: 500px;
-        height: 300px;
-        margin-right: 400px;
+
+        display: flex;
+        justify-content: center;
+       
+    }
+
+    .imgcentre1 {
 
     }
+    @media screen (max-width=1800px) {
+        
+        
+    }
+    
+        
