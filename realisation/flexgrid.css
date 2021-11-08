@@ -1,6 +1,6 @@
 .container{
-    margin-right: auto;
-    margin-left: auto;
+ margin-left: auto;
+ margin-right:auto ;
 }
 
 /* xs */
@@ -78,12 +78,14 @@
 .col-xs-12{
     flex-basis: 100%;
     max-width: 100%;
+    font-size: 30px;
+    
 }
 
 /* sm */
 
 @media only screen and (min-width:48em){
-    .container{
+    .container {
         width: 49rem;
     }
     .col-sm,
@@ -140,7 +142,7 @@
         flex-basis: 58.33333333%;
         max-width: 58.33333333%;
     }
-    .col-xs-8{
+    .col-sm-8{
         flex-basis: 66.66666666%;
         max-width: 66.66666666%;
     }
@@ -186,18 +188,20 @@
         flex: 0 0 auto;
         padding-right: 0.5rem;
         padding-left: 0.5rem;
+        
     }
     
     .col-md{
-        flex-grow: 1;
+       
         flex-basis: 0;
         max-width: 100%;
+
     }
     
     .col-md-1{
         flex-basis: 8.33333333%;
         max-width: 8.33333333%;
-    }
+         }
     .col-md-2{
         flex-basis: 16.66666666%;
         max-width: 16.66666666%;
@@ -205,6 +209,8 @@
     .col-md-3{
         flex-basis: 25%;
         max-width: 25%;
+        
+
     }
     .col-md-4{
         flex-basis: 33.33333333%;
@@ -218,7 +224,7 @@
         flex-basis:50%;
         max-width: 50%;
     }
-    .col-sm-7{
+    .col-md-7{
         flex-basis: 58.33333333%;
         max-width: 58.33333333%;
     }
@@ -237,6 +243,7 @@
     .col-md-11{
         flex-basis: 91.66666666%;
         max-width: 91.66666666%;
+        font-size: 35px;
     }
     .col-md-12{
         flex-basis: 100%;
