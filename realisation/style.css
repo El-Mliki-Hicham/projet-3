@@ -6,8 +6,19 @@ body{
 .watchback{
     max-width: 100%;
     width: 100%;
-
+    font-size: 200px;
+display: flex;
+justify-content: center;
 }
+
+.watchback2{
+    
+    display: flex;
+justify-content: center;
+max-width: 100%;
+width: 100%;
+}
+
 .logo2{
     width: 200px;
     height: 200px;
@@ -70,19 +81,16 @@ text-align: center;
         
     
     }
-     form{
+     .sing-up{
         
         box-sizing: border-box;
 
+  display: flex;
+  flex-direction: row;
        
        margin-top: 50px ;
-       display: flex;
-       flex-direction: row;
-
-    
+     
       
-        width: 20px;
-        height: 20px;
      }
   
 
