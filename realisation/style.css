@@ -6,9 +6,6 @@ body{
 .watchback{
     max-width: 100%;
     width: 100%;
-<<<<<<< HEAD
-    margin: auto;
-=======
     font-size: 200px;
 display: flex;
 justify-content: center;
@@ -20,7 +17,6 @@ justify-content: center;
 justify-content: center;
 max-width: 100%;
 width: 100%;
->>>>>>> d9ca75cbcbf3506a53f3aaa36e95c118f1e07d8e
 }
 
 .logo2{
